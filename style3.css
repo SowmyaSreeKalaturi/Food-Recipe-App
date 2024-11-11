@@ -1,0 +1,24 @@
+body {
+    height: 100vh;
+    background: linear-gradient(#1c1917 50%, #ffb92a 50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    background-color: #1e293b;
+    padding: 35px 20px 38px;
+    width: 90vw;
+    max-width: 400px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.container h1 {
+    color: #ffb92a;
+    margin-bottom: 20px;
+}
+
+
